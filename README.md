@@ -6,9 +6,4 @@ I found it very difficult to find the Technical Manual for this electric organ a
 Rather than allow others to have to guess as I did for some time, I'll just do what I can make the real manual more accessible.  Hopefully, I've added enough metadata to help this show up on a search.
 
 
-#Baldwin Model 127F Repair Manual
-#127F Electric Organ
-#Baldwin Interlude With Fun Machine 127
-#Baldwin 127 Technical Manual Free Download
-#127F Manual PDF Free Download
  
